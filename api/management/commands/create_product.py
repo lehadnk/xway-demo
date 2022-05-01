@@ -1,0 +1,1 @@
+../../modules/product/communication/console/create_product.py

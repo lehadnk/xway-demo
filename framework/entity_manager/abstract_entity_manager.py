@@ -1,0 +1,2 @@
+class AbstractEntityManager:
+    entity = None

@@ -1,0 +1,2 @@
+class ApplicationServiceLocator:
+    pass

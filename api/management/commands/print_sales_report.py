@@ -1,0 +1,1 @@
+../../modules/product_sale_report/communication/console/print_sales_report.py
